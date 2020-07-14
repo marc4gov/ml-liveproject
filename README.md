@@ -1,2 +1,2 @@
 # ml-liveproject
-Stuuf for the ML Live project
+Stuff for the ML Live project
